@@ -57,6 +57,19 @@ The typical sequence of steps should be as follows:
 4. Play/pause/stop audio file, set volume, and/or export compressed file.
 5. Return to any of steps 1-4.
 
+## **Example:** 
+
+In the "sample wav audio files" folder, you will find a list of WAV files. The shortest one is called ShortSnippet. Upload this file and enter these numbers for the parameters:
+
+* **Maximum Volume:** 0.7
+* **Minimum Volume:** 0.3
+* **Average Volume:** 0.5
+* **Maximum Adjustment:** 0.3
+* **Compression Speed:** 4410
+* **Silence Threshold:** 0.02
+
+Then, click the compress button to see the new waveform. The other files in the same folder are longer in length and will take more time to compress. For example, the "BabyElephantWalk60" WAV file will take a couple of minutes to compress.
+
 ## **CMake Information:**
 
 Cloning--
