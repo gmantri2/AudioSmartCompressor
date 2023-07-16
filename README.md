@@ -26,6 +26,9 @@ Download the zip file of the project from Github. Once it downloads, extract the
 
 In this application, you can upload audio files, perform compressions based on chosen parameters, visualize the difference in waveforms, and export compressed files to your local directory. Here is a rundown of the different options and features present:
 
+<img width="1433" alt="Screen Shot 2023-07-16 at 2 51 09 PM" src="https://github.com/gmantri2/AudioSmartCompressor/assets/84867535/15cbbb85-2e69-485c-977c-1bf2d76cf412">
+
+
 **Open button:** Opens your local file directory to upload a specific WAV file. The waveform for the uploaded file will be displayed in the top section.
 
 **Play button:** Plays the compressed file. This can only be done once a file is successfully compressed. If an audio file is playing, this button will allow you to pause the audio and resume.
